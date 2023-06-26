@@ -11,3 +11,5 @@ In the notebook named ps2, the following models have been implemented from scrat
 In the notebook named ps4 I have made use of PyTorch and studied the effect of modifying different parameters of the model the effect of noise as well.
 
 Detailed findings can be found in the reports of both the respective notebooks.
+
+Both of these projects were completed as a part of my course work while taking a course on Deep Learning with Professor Samet Oymak.
