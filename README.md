@@ -7,3 +7,7 @@ In the notebook named ps2, the following models have been implemented from scrat
 1. Linear Classifier with Quadratic loss
 2. Neural Network with Quadratic loss
 3. Neural Network with Sigmoid function and Logistic Loss
+
+In the notebook named ps4 I have made use of PyTorch and studied the effect of modifying different parameters of the model the effect of noise as well.
+
+Detailed findings can be found in the reports of both the respective notebooks.
